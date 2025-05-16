@@ -1,0 +1,237 @@
+{
+  "_meta": {
+    "slug": "",
+    "ico": "",
+    "name": "",
+    "description": "",
+    "type": "",
+    "status": "",
+    "children": []
+  },
+  "_content": {
+    "slug": "",
+    "ico": "",
+    "title": "",
+    "content": "",
+    "type": "",
+    "status": "",
+    "children": []
+  },
+  "_link": {
+    "slug": "",
+    "ico": "",
+    "title": "",
+    "url": "",
+    "description": "",
+    "type": "",
+    "status": "",
+    "children": []
+  },
+  "metas": [
+    {
+      "slug": "html/bootstrap@4",
+      "ico": "",
+      "name": "",
+      "description": "",
+      "type": "",
+      "status": "",
+      "children": [
+        {
+          "slug": "custom-components",
+          "name": "Custom Components",
+          "contents": [
+            "album",
+            "pricing",
+            "checkout",
+            "product",
+            "cover",
+            "carousel",
+            "blog",
+            "dashboard",
+            "sign-in",
+            "sticky-footer",
+            "sticky-footer-navbar"
+          ],
+          "type": "category",
+          "description": "Brand new components and templates to help folks quickly get started with Bootstrap and demonstrate best practices for adding onto the framework."
+        },
+        {
+          "slug": "framework",
+          "name": "Framework",
+          "type": "category",
+          "contents": [
+            "starter-template",
+            "grid",
+            "jumbotron"
+          ],
+          "description": "Examples that focus on implementing uses of built -in components provided by Bootstrap."
+        },
+        {
+          "slug": "navbars",
+          "name": "Navbars",
+          "type": "category",
+          "contents": [
+            "navbars",
+            "navbar-static",
+            "navbar-fixed",
+            "navbar-bottom"
+          ],
+          "description": "Taking the default navbar component and showing how it can be moved, placed, and extended."
+        },
+        {
+          "slug": "experiments",
+          "name": "Experiments",
+          "type": "category",
+          "contents": [
+            "floating-labels",
+            "offcanvas"
+          ],
+          "description": "Examples that focus on future-friendly features or techniques."
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "slug": "html/bootstrap4/album",
+      "title": "Album",
+      "description": "Simple one-page template for photo galleries, portfolios, and more.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/pricing",
+      "title": "Pricing",
+      "description": "Example pricing page built with Cards and featuring a custom header and footer.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/checkout",
+      "title": "Checkout",
+      "description": "Custom checkout form showing our form components and their validation features.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/product",
+      "title": "Product",
+      "description": "Lean product-focused marketing page with extensive grid and image work.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/cover",
+      "title": "Cover",
+      "description": "A one-page template for building simple and beautiful home pages.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/carousel",
+      "title": "Carousel",
+      "description": "Customize the navbar and carousel, then add some new components.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/blog",
+      "title": "Blog",
+      "description": "Magazine like blog template with header, navigation, featured content.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/dashboard",
+      "title": "Dashboard",
+      "description": "Basic admin dashboard shell with fixed sidebar and navbar.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/sign-in",
+      "title": "Sign-in",
+      "description": "Custom form layout and design for a simple sign in form.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/sticky-footer",
+      "title": "Sticky footer",
+      "description": "Attach a footer to the bottom of the viewport when page content is short.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/sticky-footer-navbar",
+      "title": "Sticky footer navbar",
+      "description": "Attach a footer to the bottom of the viewport with a fixed top navbar.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/starter-template",
+      "title": "Starter template",
+      "description": "Nothing but the basics: compiled CSS and JavaScript.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/grid",
+      "title": "Grid",
+      "description": "Multiple examples of grid layouts with all four tiers, nesting, and more.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/jumbotron",
+      "title": "Jumbotron",
+      "description": "Build around the jumbotron with a navbar and some basic grid columns.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/navbars",
+      "title": "Navbars",
+      "description": "Demonstration of all responsive and container options for the navbar.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/navbar-static",
+      "title": "Navbar static",
+      "description": "Single navbar example of a static top navbar along with some additional content.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/navbar-fixed",
+      "title": "Navbar fixed",
+      "description": "Single navbar example with a fixed top navbar along with some additional content.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/navbar-bottom",
+      "title": "Navbar bottom",
+      "description": "Single navbar example with a bottom navbar along with some additional content.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/floating-labels",
+      "title": "Floating labels",
+      "description": "Beautifully simple forms with floating labels over your inputs.",
+      "url": "",
+      "screenshot": ""
+    },
+    {
+      "slug": "html/bootstrap4/offcanvas",
+      "title": "Offcanvas",
+      "description": "Turn your expandable navbar into a sliding offcanvas menu.",
+      "url": "",
+      "screenshot": ""
+    }
+  ],
+  "links": []
+}
