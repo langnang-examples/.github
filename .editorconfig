@@ -18,6 +18,7 @@ max_line_length = 3600
 
 [*.{yml,yaml,html,css,js,json,php}]
 indent_size = 2
+max_line_length = 3600
 
 [*.json]
 max_line_length = 3600
